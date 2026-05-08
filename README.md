@@ -1,6 +1,6 @@
-# 👁️ Computer Vision Tasks
+# 👁️ Computer Vision projects
 
-### Task 1 — Image Processing Fundamentals
+### 1- Image Processing Fundamentals
 
 🔗 [https://github.com/Nada-Hesham249/Image_Processing_Computer_Vision](https://github.com/Nada-Hesham249/Image_Processing_Computer_Vision)
 
@@ -9,7 +9,7 @@ Image I/O · Noise & Filtering · Edge Detection · Histogram · Equalization ·
 
 ---
 
-### Task 2 — Shape Detection & Active Contours\
+### 2- Shape Detection & Active Contours
 
 🔗 [https://github.com/Nada-Hesham249/Edge-Detection-CV](https://github.com/Nada-Hesham249/Edge-Detection-CV)
 
@@ -17,7 +17,7 @@ Canny Edge Detection · Hough Transform (Lines, Circles, Ellipses) · Active Con
 
 ---
 
-### Task 3 — Feature Extraction & Matching
+### 3- Feature Extraction & Matching
 
 🔗 [https://github.com/Nada-Hesham249/Feature-Extractor](https://github.com/Nada-Hesham249/Feature-Extractor)
 
