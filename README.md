@@ -1,4 +1,4 @@
-# 👁️ Computer Vision projects
+# Computer Vision projects
 
 ### 1- Image Processing Fundamentals
 
