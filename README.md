@@ -23,3 +23,10 @@ Canny Edge Detection · Hough Transform (Lines, Circles, Ellipses) · Active Con
 
 Harris Corner Detector · λ- Operator · SIFT Descriptors · Feature Matching (SSD & NCC)
 
+---
+
+### 4- Image Segmentation
+
+🔗 [https://github.com/Nada-Hesham249/Image-Segmentation](https://github.com/Nada-Hesham249/Image-Segmentation)
+
+Otsu · Adaptive & Optimal Thresholding · Spectral Multi-modal Analysis · Unsupervised Segmentation using K-means, Region Growing, Agglomerative Clustering, and Mean Shift
